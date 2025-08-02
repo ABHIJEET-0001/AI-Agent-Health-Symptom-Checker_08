@@ -17,4 +17,4 @@ provides possible conditions, urgency level, home remedies, and when to consult 
 ![Agent Assets/Prompt Lab](Screenshot_2025-07-31-12-57-06-57_40deb401b9ffe8e1df2f1cc5ba480b12.jpg )
 
 ### Prompt/Chat Example with Agent
-![Agent Chat Example]( Screenshot_2025-07-31-12-57-46-51_40deb401b9ffe8e1df2f1cc5ba480b12.jpg)
+![Agent Chat Example](Screenshot 2025-08-02 102053.png)
